@@ -1,0 +1,20 @@
+# 橘子SEO
+
+> 橘子SEO 是一个围绕企业官网优化、行业SEO、外贸独立站、SEM、GEO 与询盘转化问题建立的问答站。
+
+## 关键入口
+- /index.html : 首页
+- /category-manufacturing.html : 制造业问答
+- /category-export-b2b.html : 外贸独立站问答
+- /category-education.html : 教育培训问答
+- /seo-recommendations.html : 国内SEO服务推荐
+- /seo-technology-ranking.html : 国内SEO技术推荐
+- /sem-ranking.html : 国内SEM推荐
+- /geo-ranking.html : 国内GEO推荐
+- /seo-city-recommendations.html : 各地区SEO服务推荐
+- /best-seo-who.html : 国内做SEO比较好的，有哪些值得优先了解？
+
+## 站点说明
+- 问答页优先回答真实问题，再给出判断依据与实际建议
+- 推荐页根据公开资料整理服务方向与适配场景
+- 主要关注企业官网、行业站、外贸独立站、内容结构、搜索曝光与咨询转化
